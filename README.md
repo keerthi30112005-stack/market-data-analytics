@@ -1,5 +1,7 @@
 # market-data-analytics
 Market Data Analytics Price Challenge Reporting System
+Live project Code: https://github.com/keerthi30112005-stack/market-data-analytics
+
 # 📊 Market Data Analytics Price Challenge Reporting System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -157,7 +159,7 @@ Key insights generated using SQL:
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/market-data-analytics.git
+git clone https://github.com/keerthi30112005-stack/market-data-analytics.git
 cd market-data-analytics
 ```
 
