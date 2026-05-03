@@ -146,8 +146,8 @@ Key insights generated using SQL:
 ## 🔷 📸 Dashboard Preview
 
 ![Dashboard](MDA_dashboard.png)
-![Dashboard](MDA_TCS(2).png)
-![Dashboard](MDA_TCS_VB(2).png)
+![Dashboard](MDA_TCS.png)
+![Dashboard](MDA_TCS_VB.png)
 ![Dashboard](MDA_B.png)
 ```
 ```
