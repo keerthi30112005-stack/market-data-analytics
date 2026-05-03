@@ -170,14 +170,14 @@ pip install pandas
 ### 3️⃣ Add Dataset
 
 Place your file:
-
+```
 (market_data__analytics_dataset.csv)
-
+```
 ### 4️⃣ Run ETL Script
 
-
+```
 (market_data_analytics_project.ipynb)
-
+```
 ---
 ## 🔷 📦 Project Structure
 
