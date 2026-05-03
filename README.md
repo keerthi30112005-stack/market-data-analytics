@@ -144,13 +144,13 @@ Key insights generated using SQL:
 ---
 
 ## 🔷 📸 Dashboard Preview
-```
+
 ![Dashboard](MDA_dashboard.png)
 ![Dashboard](MDA_TCS(2).png)
 ![Dashboard](MDA_TCS_VB(2).png)
 ![Dashboard](MDA_B.png)
 ```
----
+```
 
 ## 🔷 ▶️ How to Run
 
@@ -172,7 +172,7 @@ pip install pandas
 Place your file:
 
 ```
-market_data.csv
+market_data__analytics_dataset.csv
 ```
 
 ### 4️⃣ Run ETL Script
