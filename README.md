@@ -171,34 +171,30 @@ pip install pandas
 
 Place your file:
 
-```
-market_data__analytics_dataset.csv
-```
+(market_data__analytics_dataset.csv)
 
 ### 4️⃣ Run ETL Script
 
-```
-python market_etl_project.py
-```
+
+(market_data_analytics_project.ipynb)
 
 ---
-
 ## 🔷 📦 Project Structure
 
 ```
 market-data-analytics/
 │
 ├── data/
-│   └── market_data.csv
+│   └── market_data_analytics_dataset.csv
 │
 ├── scripts/
-│   └── market_etl_project.py
+│   └── market_data_analytics_project.ipynb
 │
 ├── database/
-│   └── market_data.db
+│   └── market_data_analytics_dataset.db
 │
 ├── outputs/
-│   └── processed_market_data.csv
+│   └── processed_prices.csv
 │
 ├── screenshots/
 │   └── dashboard images
